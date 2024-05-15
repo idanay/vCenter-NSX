@@ -1,0 +1,5 @@
+avi_credentials:
+    controller: "10.206.114.15"
+    username: "admin"
+    password: "password"
+    api_version: 22.1.6

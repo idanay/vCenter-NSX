@@ -1,0 +1,6 @@
+tenant_name: admin
+cloud_name: Default-Cloud
+app_name: AnsibleApp
+vrf_name: global
+t1_id: T1-Avi
+ipam_network_name: vxw-dvs-34-virtualwire-16-sid-6120015-wdc-06-vc12-avi-dev012
